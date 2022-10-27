@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "Go"
+    },
+    {
+        "id": "02",
+        "name": "Java"
+    },
+    {
+        "id": "03",
+        "name": "PHP"
+    },
+    {
+        "id": "04",
+        "name": "JavaScript"
+    },
+    {
+        "id": "05",
+        "name": "Kotlin"
+    },
+    {
+        "id": "06",
+        "name": "C#"
+    },
+    {
+        "id": "07",
+        "name": "python"
+    },
+    {
+        "id": "08",
+        "name": "TypeScript"
+    }
+]

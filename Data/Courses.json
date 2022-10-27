@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "Go",
+        "img": "https://www.freecodecamp.org/news/content/images/2021/10/golang.png"
+    },
+    {
+        "id": "02",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "Java",
+        "img": "https://dev.java/assets/images/java-logo-vert-blk.png"
+    },
+    {
+        "id": "03",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "PHP",
+        "img": "https://www.php.net/images/meta-image.png"
+    },
+    {
+        "id": "04",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "JavaScript",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "id": "05",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "Kotlin",
+        "img": "https://mdevelopers.com/storage/posts/January2022/Kotlin.png"
+    },
+    {
+        "id": "06",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "C#",
+        "img": "https://cdn-icons-png.flaticon.com/512/74/74906.png"
+    },
+    {
+        "id": "07",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "python",
+        "img": "https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png"
+    },
+    {
+        "id": "08",
+        "paragraph": "Automation is no longer just a problem for those working in manufacturing. Physical labor was replaced by robots; mental labor is going to be replaced by AI and software",
+        "name": "TypeScript",
+        "img": "https://img.icons8.com/ios/500/typescript.png"
+    }
+]
